@@ -1,2 +1,2 @@
-# moviesTest
-Es un proyecto que pretende permitir la visualización de películas
+# FronTest
+Es un proyecto que pretende guardar la configuración inicial de un proyecto front
